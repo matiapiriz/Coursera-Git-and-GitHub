@@ -1,5 +1,5 @@
 # Coursera-Git-and-GitHub
 
-## Edditing file
+## Editing the file
 
-Readme modification
+Thats a modoficated readme
